@@ -58,6 +58,16 @@ A WhatsApp assistant that keeps per-user memory and picks its own tools (web sea
 Naive Bayes reached **97.6%** test accuracy on Urdu news, ahead of a neural network (95.2%) and logistic regression (94%).
 → [Code](https://github.com/Muhammad-Zain-Naseer/UrduNewsClassifier)
 
+## 🗂️ More projects
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Structure-from-Motion** | 3D reconstruction from ordinary 2D photos: calibration, feature matching, epipolar geometry and bundle adjustment, built for interactive virtual tours. | Python · OpenCV · SciPy · Open3D · Three.js | [Code](https://github.com/Muhammad-Zain-Naseer/CV-Project-final-submission) · [Write-up](https://zainnaseer.com/project.html?p=structure-from-motion) |
+| **Tandurust Pakistan** | Visual-first healthcare platform design for low-literacy patients at government hospitals in Lahore, in Urdu, English and regional languages. Team of five, advised by Dr. Suleman Shahid. | Figma · UX research | [Write-up](https://zainnaseer.com/project.html?p=tandurust-pakistan) |
+| **DHT FileVault** | Distributed hash table built from scratch, with consistent hashing, node replication and fault tolerance. | Python · distributed systems | [Write-up](https://zainnaseer.com/project.html?p=dht-filevault) |
+| **Top-View Scene Mapping** | Turns ground-level camera views into top-down scene maps using homography and semantic segmentation. | Python · OpenCV | [Write-up](https://zainnaseer.com/project.html?p=top-view-scene-mapping) |
+| **Bee Buster** | A 2D Unity shooter: clear waves of bees before they reach you and chase a high score. | Unity · C# | [Code](https://github.com/Muhammad-Zain-Naseer/unity-games-LFS) |
+
 ## 🛠️ Stack
 
 **Frontend**<br/>
@@ -77,13 +87,15 @@ Naive Bayes reached **97.6%** test accuracy on Urdu news, ahead of a neural netw
 
 ## 💼 Experience
 
-| Role | Where | When |
-|---|---|---|
-| **Junior Fullstack Engineer** | INDUS Technologies, Lahore | Jun 2026 – present |
-| **Back End Developer** (part-time) | Attributter, remote | Jul 2025 – Apr 2026 |
-| **Full-stack Developer** (part-time) | AI in Healthcare Initiative, LUMS | Mar 2025 – Aug 2025 |
-| **Teaching Assistant, CS-100** | LUMS | Fall 2024 · Fall 2025 |
-| **Teaching Assistant** (Python, SQL, Excel for FBR officers) | LUMS REDC | 2026 |
+**About 1 year 7 months of engineering work** across three roles, the first two part-time alongside my degree.
+
+| Role | Where | When | Time |
+|---|---|---|---|
+| **Junior Fullstack Engineer** | INDUS Technologies, Lahore | Jun 2026 – present | 5 months |
+| **Back End Developer** (part-time) | Attributter, remote | Jul 2025 – Apr 2026 | 10 months |
+| **Full-stack Developer** (part-time) | AI in Healthcare Initiative, LUMS | Mar 2025 – Aug 2025 | 6 months |
+| **Teaching Assistant, CS-100** | LUMS | Fall 2024 · Fall 2025 | 2 semesters |
+| **Teaching Assistant** (Python, SQL, Excel for FBR officers) | LUMS REDC | 2026 | 3-week programmes |
 
 **BS Computer Science**, Lahore University of Management Sciences · 2022 – 2026
 
