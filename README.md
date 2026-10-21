@@ -87,8 +87,6 @@ Naive Bayes reached **97.6%** test accuracy on Urdu news, ahead of a neural netw
 
 ## 💼 Experience
 
-**About 1 year 9 months of engineering work** across four roles, including part-time work alongside my degree.
-
 | Role | Where | When | Time |
 |---|---|---|---|
 | **Junior Fullstack Engineer** | INDUS Technologies, Lahore | Jun 2026 – present | 5 months |
