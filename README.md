@@ -94,7 +94,7 @@ Naive Bayes reached **97.6%** test accuracy on Urdu news, ahead of a neural netw
 | **Junior Fullstack Engineer** | INDUS Technologies, Lahore | Jun 2026 – present | 5 months |
 | **Back End Developer** (part-time) | Attributter, remote | Jul 2025 – Apr 2026 | 10 months |
 | **Full-stack Developer** (part-time) | AI in Healthcare Initiative, LUMS | Mar 2025 – Aug 2025 | 6 months |
-| **Summer Intern** (Unity, C#) | Imaginary Studios, Lahore | Jun 2024 – Jul 2024 | 2 months |
+| **Summer Intern** (Unity, C#) | Imaginary Studios | Jun 2024 – Jul 2024 | 2 months |
 | **Teaching Assistant, CS-100** | LUMS | Fall 2024 · Fall 2025 | 2 semesters |
 | **Teaching Assistant** (Python, SQL, Excel for FBR officers) | LUMS REDC | 2026 | 3-week programmes |
 
