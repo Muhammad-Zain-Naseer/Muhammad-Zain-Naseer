@@ -29,11 +29,11 @@ I build web products end to end: the React/TypeScript screens people use, the AP
 
 Open any of these, they are running today.
 
-| Project | What it does | Stack | Links |
+| Project | What it does | Stack |
 |---|---|---|---|
-| **LUMS Opportunities** | Sign-up site and WhatsApp approval bot for a **6,000+ member** student community. Students verify their LUMS email, and eligible join requests are approved automatically, with anti-ban safeguards. | Node.js · Express · MongoDB · Baileys | [Live](https://www.lumsopportunities.com/) · [Write-up](https://zainnaseer.com/project.html?p=lums-opportunities) |
-| **UstaadOnline** | Tutoring platform: tutor matching, session booking and Stripe payments, with separate views for students, tutors and admins. I worked mostly on the backend and ran the deployment. | PostgreSQL · Express · React · Node.js | [Live](https://se-project-2024-cqrf.vercel.app/) · [Code](https://github.com/Muhammad-Zain-Naseer/UstaadOnline) |
-| **Darbaar** | Real-time multiplayer take on *Badshah Ka Wazir Kon?*. Many game rooms run at once and stay in sync over Socket.IO. | React · Node.js · Socket.IO · MongoDB | [Play](https://darbaar.vercel.app/) · [Code](https://github.com/Muhammad-Zain-Naseer/Darbaar) |
+| **LUMS Opportunities** | Sign-up site and WhatsApp approval bot for a **6,000+ member** student community. Students verify their LUMS email, and eligible join requests are approved automatically, with anti-ban safeguards. | Node.js · Express · MongoDB · Baileys |
+| **UstaadOnline** | Tutoring platform: tutor matching, session booking and Stripe payments, with separate views for students, tutors and admins. I worked mostly on the backend and ran the deployment. | PostgreSQL · Express · React · Node.js |
+| **Darbaar** | Real-time multiplayer take on *Badshah Ka Wazir Kon?*. Many game rooms run at once and stay in sync over Socket.IO. | React · Node.js · Socket.IO · MongoDB |
 
 ## 🧩 Selected work
 
@@ -60,13 +60,13 @@ Naive Bayes reached **97.6%** test accuracy on Urdu news, ahead of a neural netw
 
 ## 🗂️ More projects
 
-| Project | What it is | Stack | Links |
+| Project | What it is | Stack |
 |---|---|---|---|
-| **Structure-from-Motion** | 3D reconstruction from ordinary 2D photos: calibration, feature matching, epipolar geometry and bundle adjustment, built for interactive virtual tours. | Python · OpenCV · SciPy · Open3D · Three.js | [Code](https://github.com/Muhammad-Zain-Naseer/CV-Project-final-submission) · [Write-up](https://zainnaseer.com/project.html?p=structure-from-motion) |
-| **Tandurust Pakistan** | Visual-first healthcare platform design for low-literacy patients at government hospitals in Lahore, in Urdu, English and regional languages. Team of five, advised by Dr. Suleman Shahid. | Figma · UX research | [Write-up](https://zainnaseer.com/project.html?p=tandurust-pakistan) |
-| **DHT FileVault** | Distributed hash table built from scratch, with consistent hashing, node replication and fault tolerance. | Python · distributed systems | [Write-up](https://zainnaseer.com/project.html?p=dht-filevault) |
-| **Top-View Scene Mapping** | Turns ground-level camera views into top-down scene maps using homography and semantic segmentation. | Python · OpenCV | [Write-up](https://zainnaseer.com/project.html?p=top-view-scene-mapping) |
-| **Bee Buster** | A 2D Unity shooter: clear waves of bees before they reach you and chase a high score. | Unity · C# | [Code](https://github.com/Muhammad-Zain-Naseer/unity-games-LFS) |
+| **Structure-from-Motion** | 3D reconstruction from ordinary 2D photos: calibration, feature matching, epipolar geometry and bundle adjustment, built for interactive virtual tours. | Python · OpenCV · SciPy · Open3D · Three.js |
+| **Tandurust Pakistan** | Visual-first healthcare platform design for low-literacy patients at government hospitals in Lahore, in Urdu, English and regional languages. Team of five, advised by Dr. Suleman Shahid. | Figma · UX research |
+| **DHT FileVault** | Distributed hash table built from scratch, with consistent hashing, node replication and fault tolerance. | Python · distributed systems |
+| **Top-View Scene Mapping** | Turns ground-level camera views into top-down scene maps using homography and semantic segmentation. | Python · OpenCV |
+| **Bee Buster** | A 2D Unity shooter: clear waves of bees before they reach you and chase a high score. | Unity · C# |
 
 ## 🛠️ Stack
 
@@ -87,14 +87,14 @@ Naive Bayes reached **97.6%** test accuracy on Urdu news, ahead of a neural netw
 
 ## 💼 Experience
 
-| Role | Where | When | Time |
-|---|---|---|---|
-| **Junior Fullstack Engineer** | INDUS Technologies, Lahore | Jun 2026 – present | Current |
-| **Back End Developer** (part-time) | Attributter, remote | Jul 2025 – Apr 2026 | 10 months |
-| **Full-stack Developer** (part-time) | AI in Healthcare Initiative, LUMS | Mar 2025 – Aug 2025 | 6 months |
-| **Summer Intern** (Unity, C#) | Imaginary Studios | Jun 2024 – Jul 2024 | 2 months |
-| **Teaching Assistant, CS-100** | LUMS | Fall 2024 · Fall 2025 | 2 semesters |
-| **Teaching Assistant** (Python, SQL, Excel for FBR officers) | LUMS REDC | 2026 | 3-week programmes |
+| Role | Where | When |
+|---|---|---|
+| **Junior Fullstack Engineer** | INDUS Technologies, Lahore | Jun 2026 – present |
+| **Back End Developer** (part-time) | Attributter, remote | Jul 2025 – Apr 2026 |
+| **Full-stack Developer** (part-time) | AI in Healthcare Initiative, LUMS | Mar 2025 – Aug 2025 |
+| **Summer Intern** (Unity, C#) | Imaginary Studios | Jun 2024 – Jul 2024 |
+| **Teaching Assistant, CS-100** | LUMS | Fall 2024 · Fall 2025 |
+| **Teaching Assistant** (Python, SQL, Excel for FBR officers) | LUMS REDC | 2026 |
 
 **BS Computer Science**, Lahore University of Management Sciences · 2022 – 2026
 
